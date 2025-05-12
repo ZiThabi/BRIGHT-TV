@@ -46,6 +46,7 @@ Tools Used
 •	Microsoft Excel (data cleaning, VLOOKUPs, pivot tables, chart creation)
 •	Power BI (free version) for interactive dashboards and visuals
 •	GitHub (repository hosting and collaboration)
+Digrams for the workflow process and mindmap
 
 Key Recommendations (from analysis)
 •	Schedule premium or exclusive content on low-consumption days.
